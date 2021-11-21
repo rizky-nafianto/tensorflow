@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepenthes globosa x khasiana</folder>
+	<filename>khasiana4.jpg</filename>
+	<path>C:\Users\Dmitry Rizky\Documents\Kecerdasan Buatan\Tensorflow\workspace\images\collectedimages\nepenthes globosa x khasiana\khasiana4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Khasiana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1094</xmin>
+			<ymin>1775</ymin>
+			<xmax>1863</xmax>
+			<ymax>3262</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepenthes mirabilis x eustachya</folder>
+	<filename>eustachya5.jpg</filename>
+	<path>C:\Users\Dmitry Rizky\Documents\Kecerdasan Buatan\Tensorflow\workspace\images\collectedimages\nepenthes mirabilis x eustachya\eustachya5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eustachya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1000</xmin>
+			<ymin>1312</ymin>
+			<xmax>2378</xmax>
+			<ymax>4048</ymax>
+		</bndbox>
+	</object>
+</annotation>

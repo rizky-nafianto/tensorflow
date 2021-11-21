@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepenthes gracilis</folder>
+	<filename>gracilis10.jpg</filename>
+	<path>C:\Users\Dmitry Rizky\Documents\Kecerdasan Buatan\Tensorflow\workspace\images\collectedimages\nepenthes gracilis\gracilis10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gracilis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1085</xmin>
+			<ymin>1069</ymin>
+			<xmax>2335</xmax>
+			<ymax>3584</ymax>
+		</bndbox>
+	</object>
+</annotation>

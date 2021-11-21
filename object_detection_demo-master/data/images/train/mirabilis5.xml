@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepenthes mirabilis</folder>
+	<filename>mirabilis5.jpg</filename>
+	<path>C:\Users\Dmitry Rizky\Documents\Kecerdasan Buatan\Tensorflow\workspace\images\collectedimages\nepenthes mirabilis\mirabilis5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mirabilis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1231</xmin>
+			<ymin>1800</ymin>
+			<xmax>1738</xmax>
+			<ymax>2887</ymax>
+		</bndbox>
+	</object>
+</annotation>

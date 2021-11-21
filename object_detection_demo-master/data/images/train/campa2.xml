@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepenthes mirabilis x campa</folder>
+	<filename>campa2.jpg</filename>
+	<path>C:\Users\Dmitry Rizky\Documents\Kecerdasan Buatan\Tensorflow\workspace\images\collectedimages\nepenthes mirabilis x campa\campa2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4628</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Campa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1357</xmin>
+			<ymin>1928</ymin>
+			<xmax>2128</xmax>
+			<ymax>3356</ymax>
+		</bndbox>
+	</object>
+</annotation>

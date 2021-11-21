@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nepenthes globosa x maxima</folder>
+	<filename>maxima3.jpg</filename>
+	<path>C:\Users\Dmitry Rizky\Documents\Kecerdasan Buatan\Tensorflow\workspace\images\collectedimages\nepenthes globosa x maxima\maxima3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3472</width>
+		<height>4640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Maxima</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1178</xmin>
+			<ymin>1198</ymin>
+			<xmax>2478</xmax>
+			<ymax>3855</ymax>
+		</bndbox>
+	</object>
+</annotation>
